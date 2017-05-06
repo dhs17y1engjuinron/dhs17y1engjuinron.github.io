@@ -1,4 +1,8 @@
+* {
+  font-family:'Arial';
+}
 h2 {
-font-family: 'Arial';
   color: red;
 }
+p {
+  font-size: 20;
