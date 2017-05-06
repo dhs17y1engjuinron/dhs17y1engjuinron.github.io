@@ -1,5 +1,5 @@
 body  {
-  background-color: blue;
+  background-color: yellow;
 }
 * {
   font-family:'Arial';
@@ -13,6 +13,4 @@ p {
 img {
   border-radius: 100%;
 }
-li {
-  color:green;
-}
+
